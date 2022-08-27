@@ -1,0 +1,2 @@
+# funcli
+CLI library
